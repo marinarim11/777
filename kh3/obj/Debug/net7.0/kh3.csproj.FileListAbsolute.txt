@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/hu/kh3/bin/Debug/net7.0/kh3
+/Users/marinagrecko/Desktop/hu/kh3/bin/Debug/net7.0/kh3.deps.json
+/Users/marinagrecko/Desktop/hu/kh3/bin/Debug/net7.0/kh3.runtimeconfig.json
+/Users/marinagrecko/Desktop/hu/kh3/bin/Debug/net7.0/kh3.dll
+/Users/marinagrecko/Desktop/hu/kh3/bin/Debug/net7.0/kh3.pdb
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.dll
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/refint/kh3.dll
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.pdb
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/kh3.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/hu/kh3/obj/Debug/net7.0/ref/kh3.dll

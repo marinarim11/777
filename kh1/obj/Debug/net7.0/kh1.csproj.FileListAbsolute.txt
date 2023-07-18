@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/hu/kh1/bin/Debug/net7.0/kh1
+/Users/marinagrecko/Desktop/hu/kh1/bin/Debug/net7.0/kh1.deps.json
+/Users/marinagrecko/Desktop/hu/kh1/bin/Debug/net7.0/kh1.runtimeconfig.json
+/Users/marinagrecko/Desktop/hu/kh1/bin/Debug/net7.0/kh1.dll
+/Users/marinagrecko/Desktop/hu/kh1/bin/Debug/net7.0/kh1.pdb
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.dll
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/refint/kh1.dll
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.pdb
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/kh1.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/hu/kh1/obj/Debug/net7.0/ref/kh1.dll
